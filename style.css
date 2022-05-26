@@ -1,3 +1,5 @@
-.default {
+.text {
     content: attr(href)}link:hover{color: crimson;
+    padding-top: 0.25%;
+    line-height: 90%;
 }
