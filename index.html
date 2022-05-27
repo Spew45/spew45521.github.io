@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width">
   <title>Games</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
-  <link rel="icon" type="image/x-icon" href="dump/favicon.ico">
+  <link id="favicon" rel="shortcut icon" type="image/png" href="https://spew45.github.io/dump/favicon.png" />
 </head>
 
 <style>
@@ -25,8 +25,14 @@
 </div>
 
 <body>
-  <script src="script.js"></script>
-  <button type="button" onclick="changeFavicon();">Click Me!</button>
+  <button onclick="toNo()">New
+    <script>
+      const favicon = document.getElementById("favicon")
+      
+      function toNo() {
+        favicon.setAttribute("href", "https://spew45.github.io/dump/favicon.ico")
+      }
+    </script>
 </body>
   
 <div class="text">
