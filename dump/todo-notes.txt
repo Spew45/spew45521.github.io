@@ -7,5 +7,6 @@ Spew's Notes:
   - change the style of the start screen ❌
 Games To Add:
   - https://skribbl.io/ ❌
+  - https://extrememath.cyou/gamefiles/flappybird/ ❌
 Apps To Add:
   - Spotify ❌
