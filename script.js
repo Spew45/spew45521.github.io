@@ -1,0 +1,1 @@
+open('', '_self', ''); window. close();
