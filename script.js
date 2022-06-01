@@ -1,1 +1,1 @@
-open('', '_self', ''); window. close();
+window.close();
