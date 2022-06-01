@@ -6,6 +6,6 @@ Spew's Notes:
   - find a good font ❌
   - change the style of the start screen ❌
 Games To Add:
-  - https://skribbl.io/
+  - https://skribbl.io/ ❌
 Apps To Add:
-  - Spotify
+  - Spotify ❌
