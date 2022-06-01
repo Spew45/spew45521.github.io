@@ -5,3 +5,7 @@ Spew's Notes:
   - make a game card with the icon on it ❌
   - find a good font ❌
   - change the style of the start screen ❌
+Games To Add:
+  - https://skribbl.io/
+Apps To Add:
+  - Spotify
